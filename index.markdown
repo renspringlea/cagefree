@@ -31,8 +31,7 @@ Australia, Canada, India, Indonesia, Japan, Malaysia, Mexico, Nigeria, Pakistan,
   {% endfor %}
 </table>
 
-# Raw data for download
-For your own analysis, you may download:  
+For your own analysis, you may download the raw data:  
 
 - [The aggregate table](_data/aggregate_table_alltime.csv) - this is the same table as shown above, though there is one table for every month since we began collecting data. This lets you see how numbers are changing over time.
 - [The raw table](_data/raw_table_alltime.csv) - this is the name and details corresponding to every individual egg product. The raw table is the original data underlying the aggregate table (above).
