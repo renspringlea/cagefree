@@ -1,0 +1,36 @@
+<footer class="site-footer h-card">
+
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+
+    <h2 class="footer-heading">About {{ site.title | escape }}</h2>
+
+      <div class="footer-col footer-col-3">
+        {%- assign date_format = site.theme_settings.date_format | default: "%Y-%m-%d" %}
+        <p>Last updated: {{ site.time | date: date_format }}</p>
+        <p>Made with ❤︎ by Ren Ryba (they/them) (Animal Ask). <a href="https://www.animalask.org/contact">Contact us</a> with any questions or suggestions about things that could make this website more useful for your hen advocacy work.</p>
+        <p>We encourage you to use the content from this website, including graphs, in reports and publications that support your animal advocacy work. All data is from sources available to the public. The only content on this website that is scraped from retail companies are the factual names of egg products. All other content on this website is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a>.</p>
+        <p>For sources that we used to decide on which countries and retail companies to include and to determine some details about those retail companies, see <a href="https://docs.google.com/spreadsheets/d/1q4MWXWUEn3W9PY7NOmvnM1uF2Qn2qgZ7zc9hSIUiGxM/edit?usp=sharing">this spreadsheet<a/>. In that spreadsheet, the "Countries" tab (each row is a country, human readable) includes some high-level information about countries, the egg industry in each country, and retailers in those countries (e.g. has the retailer made a cage-free commitment or not, is the retailer reporting on that commitment or not). The "Retailer URLs" tab (each row is a retailer, machine readable) includes the data (URLs and some details about HTML elements) that our script actually used to scrape each retailer, and any retailers that we did not scrape are also flagged.</p>
+        <p> I live and work on the unceded land of the Kaurna people.</p>
+
+        <img src="/assets/images/Logo.png" alt="Animal Ask logo" style="float: right" class="logo" width="120" height="120" />
+        <pre style="float:left" width="400">
+     __//
+cf  /.__.\
+    \ \/ /
+ '__/    \
+  \-      )
+   \_____/
+_____|_|____
+     " "
+        </pre>
+
+
+      </div>
+    </div>
+
+  </div>
+
+</footer>
