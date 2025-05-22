@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd ~/cagefree/website
+cd ~/cagefree/cagefree_site
 #bundle lock --add-platform x86_64-linux
 #bundle exec jekyll build --verbose
 #bundle exec jekyll serve
