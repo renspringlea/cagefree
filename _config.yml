@@ -1,5 +1,7 @@
 ## Remove URL for Github Pages
 #url: https://jekyll-theme-nix.michaelnordmeyer.com
+baseurl: /cagefree
+url: https://renspringlea.github.io
 title: Cagefr.ee
 author:
   name: Ren Ryba
