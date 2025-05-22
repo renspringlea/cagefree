@@ -4,7 +4,8 @@ layout: home
 
 This website presents, in a format convenient for decision-makers and funders working on caged hen welfare, key data relating to cage-free and caged eggs sold by supermarkets and retailers around the world. Data is updated every month or so.
 
-The purpose of this data is to provide an additional source of information about how many egg products are cage-free as opposed to cage, especially for companies that do not have cage-free commitments or do not report on their commitment.
+The purpose of this data is to provide an additional source of information about how many egg products are cage-free as opposed to cage, especially for companies that do not have cage-free commitments or do not report on their commitment.  
+
 - Specifically, this website aims to present data on **the numbers of cage-free vs caged shell egg products sold by retailers in specific countries**.
 - This website does *not* include data on sales numbers—rather, the data collects details about products that are available for purchase at major retailers in the specific countries, and whether those products are caged or cage-free.
 - We only include grocery retailers, such as supermarkets and hypermarkets. We do not include restaurants, food service businesses, and so on.
@@ -31,6 +32,7 @@ Australia, Canada, India, Indonesia, Japan, Malaysia, Mexico, Nigeria, Pakistan,
 </table>
 
 # Raw data for download
-For your own analysis, you may download:
+For your own analysis, you may download:  
+
 - [The aggregate table](_data/aggregate_table_alltime.csv) - this is the same table as shown above, though there is one table for every month since we began collecting data. This lets you see how numbers are changing over time.
 - [The raw table](_data/raw_table_alltime.csv) - this is the name and details corresponding to every individual egg product. The raw table is the original data underlying the aggregate table (above).
