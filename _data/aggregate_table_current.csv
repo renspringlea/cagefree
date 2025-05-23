@@ -1,5 +1,25 @@
-"country","chain","date","cage_free","barn","aviary","freerange","organic","cagefreenotidentified","cage","insufficientinformation","total","percent"
-"Australia","Coles","2025-05",17,0,0,8,2,7,0,1,48,0.354166666666667
-"Australia","Woolworths","2025-05",19,1,0,11,4,3,1,2,47,0.404255319148936
-"Canada","Costco","2025-05",2,0,0,1,1,0,0,1,7,0.285714285714286
-"Canada","Walmart","2025-05",0,0,0,0,0,0,0,3,30,0
+"Country","Retail chain","Total egg products","Percent of products cage-free","Num. cage","Num. cage-free","...of which","Num. unidentified"
+"Australia","Coles",48,"35.4%",0,17,"Barn = 0
+Aviary = 0
+Free-range = 8
+Organic = 2
+Cage-free but unidentified = 7
+",1
+"Australia","Woolworths",47,"40.4%",1,19,"Barn = 1
+Aviary = 0
+Free-range = 11
+Organic = 4
+Cage-free but unidentified = 3
+",2
+"Canada","Costco",7,"28.6%",0,2,"Barn = 0
+Aviary = 0
+Free-range = 1
+Organic = 1
+Cage-free but unidentified = 0
+",1
+"Canada","Walmart",30,"0.0%",0,0,"Barn = 0
+Aviary = 0
+Free-range = 0
+Organic = 0
+Cage-free but unidentified = 0
+",3
