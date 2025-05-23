@@ -43,9 +43,9 @@ The purpose of this data is to provide an additional source of information about
 
 For your own analysis, you may download the raw data:  
 
-- [The aggregate table for this month](_data/aggregate_table_current.csv) - this is the table shown above, exactly as you see it.
-- [The aggregate table for all time](_data/aggregate_table_alltime.csv) - this is the table as shown above, though there is one table for every month since we began collecting data. This lets you examine how numbers are changing over time.
-- [The raw table for all time](_data/raw_table_alltime.csv) - this is the name and details corresponding to every individual egg product. The raw table is the original data underlying the aggregate table (above).
+- [The aggregate table for this month](data/aggregate_table_current.csv) - this is the table shown above, exactly as you see it.
+- [The aggregate table for all time](data/aggregate_table_alltime.csv) - this is the table as shown above, though there is one table for every month since we began collecting data. This lets you examine how numbers are changing over time.
+- [The raw table for all time](data/raw_table_alltime.csv) - this is the name and details corresponding to every individual egg product. The raw table is the original data underlying the aggregate table (above).
 
 # About the data  
 - We only include grocery retailers, such as supermarkets and hypermarkets. We do not include restaurants, food service businesses, and so on. We focus on shell eggs; some retailers include liquid or powered eggs in their online store pages under the "egg" category, and such instances are included in the data. However, where retailers include liquid or powered eggs under a separate category, we made no effort to obtain that data. We have done our best to remove eggs from animals other than chickens (e.g. quails), though we may have missed some.
