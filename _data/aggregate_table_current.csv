@@ -1,25 +1,9 @@
 "Country","Retail chain","Total egg products","Percent of products cage-free","Num. cage","Num. cage-free","...of which","Num. unidentified"
-"Australia","Coles",48,"35.4%",0,17,"Barn = 0
-Aviary = 0
-Free-range = 8
-Organic = 2
-Cage-free but unidentified = 7
+"Australia","Coles",48,"35.4%",0,17,"Barn = 0<br />Aviary = 0<br />Free-range = 8<br />Organic = 2<br />Cage-free but unidentified = 7
 ",1
-"Australia","Woolworths",47,"40.4%",1,19,"Barn = 1
-Aviary = 0
-Free-range = 11
-Organic = 4
-Cage-free but unidentified = 3
+"Australia","Woolworths",47,"40.4%",1,19,"Barn = 1<br />Aviary = 0<br />Free-range = 11<br />Organic = 4<br />Cage-free but unidentified = 3
 ",2
-"Canada","Costco",7,"28.6%",0,2,"Barn = 0
-Aviary = 0
-Free-range = 1
-Organic = 1
-Cage-free but unidentified = 0
+"Canada","Costco",7,"28.6%",0,2,"Barn = 0<br />Aviary = 0<br />Free-range = 1<br />Organic = 1<br />Cage-free but unidentified = 0
 ",1
-"Canada","Walmart",30,"0.0%",0,0,"Barn = 0
-Aviary = 0
-Free-range = 0
-Organic = 0
-Cage-free but unidentified = 0
+"Canada","Walmart",30,"0.0%",0,0,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 0
 ",3
