@@ -1,5 +1,18 @@
 "country","chain","date","cage_free","barn","aviary","freerange","organic","cagefreenotidentified","cage","insufficientinformation","total","percent"
-"Australia","Coles","2025-05",17,0,0,8,2,7,0,1,48,0.354166666666667
-"Australia","Woolworths","2025-05",19,1,0,11,4,3,1,2,47,0.404255319148936
-"Canada","Costco","2025-05",2,0,0,1,1,0,0,1,7,0.285714285714286
-"Canada","Walmart","2025-05",0,0,0,0,0,0,0,3,30,0
+"Australia","Aldi","2025-05",3,1,0,2,0,0,1,0,4,0.75
+"Australia","Coles","2025-05",48,2,0,29,4,13,0,0,48,1
+"Australia","Woolworths","2025-05",32,0,0,23,5,4,0,2,34,0.941176470588235
+"Canada","Costco","2025-05",3,0,0,1,1,1,0,3,6,0.5
+"Canada","Loblaws","2025-05",16,0,0,12,4,0,0,16,32,0.5
+"Canada","Walmart","2025-05",7,0,0,6,1,0,1,28,36,0.194444444444444
+"Indonesia","Hypermart","2025-05",0,0,0,0,0,0,0,1,1,0
+"Malaysia","Lotus","2025-05",5,0,0,3,0,2,10,19,34,0.147058823529412
+"Mexico","HEB","2025-05",11,0,0,4,3,4,0,55,66,0.166666666666667
+"Mexico","La Comer","2025-05",16,1,0,5,10,0,0,14,30,0.533333333333333
+"Pakistan","Metro-Makro","2025-05",0,0,0,0,0,0,0,1,1,0
+"Pakistan","Utility Stores Corporation","2025-05",0,0,0,0,0,0,0,4,4,0
+"Thailand","Tops Market (Central Food Retail)","2025-05",14,0,0,4,7,3,2,28,44,0.318181818181818
+"Thailand","Villa Market","2025-05",8,0,0,0,5,3,0,36,44,0.181818181818182
+"United States","ALDI","2025-05",4,0,0,2,1,1,0,2,6,0.666666666666667
+"United States","Publix","2025-05",28,0,0,9,7,12,0,20,48,0.583333333333333
+"United States","Walgreens","2025-05",2,0,0,0,0,2,0,0,2,1

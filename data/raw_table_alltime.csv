@@ -1,83 +1,101 @@
 "date","country","chain","product_name","product_description","production_system","flag","cage_free","response_barn","response_aviary","response_freerange","response_organic","response_cagefreenotidentified","response_cage","response_insufficientinformation"
+"2025-05","Australia","Aldi","Cage Eggs 700g",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Australia","Aldi","Free Range Eggs 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Aldi","Free Range Eggs 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Aldi","Barn Laid Eggs 700g",NA,"barn",FALSE,1,1,0,0,0,0,0,0
 "2025-05","Australia","Coles","Coles Jumbo Free Range Eggs 12 Pack | 800g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Pace Farm Liberty Cage Free Eggs 12 Pack | 500g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
-"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs 12 Pack | 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs Regular 6 Pack | 350g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
-"2025-05","Australia","Coles","Coles Free Range Eggs 6 pack | 300g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Coles Free Range Eggs 6 pack | 300g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Coles Organic Free Range Eggs 12 Pack | 600g",NA,"organic",FALSE,1,0,0,0,1,0,0,0
-"2025-05","Australia","Coles","Sunny Queen Free Range Big Brekkie Browns Eggs 12 ... 820g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Cage Free 18 Pack | 900g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Puregg Egg White Free Range | 500g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Sunny Queen Organic Eggs 12 pack | 700g",NA,"organic ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Pace Farm Natural Living Free Range Large Eggs 12 pack | 600g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Free Range Big Brekkie Browns Eggs 12 ... 820g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Cage Free 18 Pack | 900g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Puregg Egg White Free Range | 500g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Organic Eggs 12 pack | 700g",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Coles","Pace Farm Natural Living Free Range Large Eggs 12 pack | 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Coles Cage Free Eggs 12 Pack | 700g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
 "2025-05","Australia","Coles","Coles Cage Free Eggs 12 Pack | 800g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
 "2025-05","Australia","Coles","Coles Cage Free Eggs 18 Pack | 900g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
-"2025-05","Australia","Coles","Yallamundi Farm Organic Free Range Eggs 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs 18 Pack | 900g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Yallamundi Farm Organic Free Range Eggs 12 Pack | 600g",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Coles","Yallamundi Farm Organic Free Range Eggs 12 Pack | 700g",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs 18 Pack | 900g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Yallamundi Farm Organic Free Range Eggs 12 Pack | 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Sunny Queen Free Range Large Eggs 12 pack | 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
-"2025-05","Australia","Coles","Sunny Queen Free Range Extra Large Eggs 12 pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Free Range Extra Large Eggs 12 pack | 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Sunny Queen Free Range X Large Eggs 6 pack | 350g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Good Yolk Co Cage Free Eggs 12 Pack | 700g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
 "2025-05","Australia","Coles","Sunrise Free Range Eggs 12 Pack | 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
-"2025-05","Australia","Coles","Sunrise Free Range Eggs 12 Pack | 600g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Meggles Free Range Eggs Xlarge 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Fyfe Family Farm Free Range Eggs 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Sunrise Free Range Eggs 12 Pack | 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Meggles Free Range Eggs Xlarge 12 Pack | 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Fyfe Family Farm Free Range Eggs 12 Pack | 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Fyfe Family Farm Free Range Eggs 12 Pack | 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Mornington Peninsula Free Range 12 Pack | 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
-"2025-05","Australia","Coles","Mornington Peninsula Free Range Eggs 12 Pack | 800g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Mornington Peninsula Free Range 6 Pack | 330g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Free Range Eggs 12 Pack | 800g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Free Range 6 Pack | 330g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Surf Coast Cracking Good Ultimate Free Range Eggs 12 P ... 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
-"2025-05","Australia","Coles","Surf Coast Cracking Good Ultimate Free Range Eggs 12 P ... 800g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Pace Farm Cage Free Eggs 12 Pack | 800g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Surf Coast Cracking Good Ultimate Free Range Eggs 12 P ... 800g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Cage Free Eggs 12 Pack | 800g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
 "2025-05","Australia","Coles","Pace Farm Eggs For Everyone Cage Free 12 Pack | 700g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
-"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Cage Free 12 Pack | 600g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs 12Pack | 800g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Mornington Peninsula Free Range Eggs 12 Pack | 600g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Mornington Peninsula Cage Free Eggs 12 Pack | 700g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Mornington Peninsula Cage Free Eggs 12 Pack | 600g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Surf Coast Ultimate Free Range Eggs 12 Pack | 600g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Sunny Queen Odd Eggs Ready To Pour Egg Mix | 500g",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
-"2025-05","Australia","Coles","Sunny Queen Organic Free Range Large Eggs 6 pack | 300g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Farm Pride Cage Free Barn Laid Eggs 12 pack | 700g",NA,"barn ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Farmpride Cage Free Barn Laid Eggs 12 Pack | 600g",NA,"barn ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Free Range 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Free Range 12 Pack | 800g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Cage Free 12 Pack | 600g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs 12Pack | 800g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Free Range Eggs 12 Pack | 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Cage Free Eggs 12 Pack | 700g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Cage Free Eggs 12 Pack | 600g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Surf Coast Ultimate Free Range Eggs 12 Pack | 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Odd Eggs Ready To Pour Egg Mix | 500g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Sunny Queen Organic Free Range Large Eggs 6 pack | 300g",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Coles","Farm Pride Cage Free Barn Laid Eggs 12 pack | 700g",NA,"barn",FALSE,1,1,0,0,0,0,0,0
+"2025-05","Australia","Coles","Farmpride Cage Free Barn Laid Eggs 12 Pack | 600g",NA,"barn",FALSE,1,1,0,0,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Free Range 12 Pack | 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Free Range 12 Pack | 800g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Coles","Sunny Queen Cage Free Large Eggs 18 pack | 900g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
-"2025-05","Australia","Coles","Sunny Queen Free Range Large Eggs 18 pack | 900g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Free Range 12 pack | 500g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Free Range Large Eggs 18 pack | 900g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Free Range 12 pack | 500g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","$8.80
 $1.26 / 100G
 Sunny Queen 12 Extra Large Free Range Eggs 700g
+4.0
+/
+1
 Add to cart
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Manning Valley 12 Extra Large Free Range Eggs 700g
+4.0
+/
+1
 View similar
 products
              to Manning Valley 12 Extra Large Free Range Eggs 700g
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Woolworths 12 Extra Large Cage Free Eggs 700g
 View similar
 products
              to Woolworths 12 Extra Large Cage Free Eggs 700g
-Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Sunny Queen 18 Large Free Range Eggs 900g
+5.0
+/
+1
 View similar
 products
              to Sunny Queen 18 Large Free Range Eggs 900g
 Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
-"2025-05","Australia","Woolworths","IN-STORE ONLY
+"2025-05","Australia","Woolworths","$4.90
+$1.40 / 100G
 Woolworths 6 Extra Large Free Range Eggs 350g
-View similar
-products
-             to Woolworths 6 Extra Large Free Range Eggs 350g
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+4.7
+/
+670
+Add to cart
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","EST. RESTOCK 26/05/25
 Manning Valley 12 Jumbo Free Range Eggs 800g
+5.0
+/
+1
 View similar
 products
              to Manning Valley 12 Jumbo Free Range Eggs 800g
@@ -106,7 +124,7 @@ Macro 12 Large Organic Australian Free Range Eggs 600g
 View similar
 products
              to Macro 12 Large Organic Australian Free Range Eggs 600g
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"organic",FALSE,1,0,0,0,1,0,0,0
 "2025-05","Australia","Woolworths","$14.00
 $2.00 / 100G
 Yallamundi Farm Organic 12 Extra Large Free Range Eggs 700g
@@ -114,7 +132,7 @@ Yallamundi Farm Organic 12 Extra Large Free Range Eggs 700g
 /
 1
 Add to cart
-Save to list",NA,"organic ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"organic",FALSE,1,0,0,0,1,0,0,0
 "2025-05","Australia","Woolworths","EST. RESTOCK 26/05/25
 Manning Valley 12 Large Free Range Eggs 600g
 View similar
@@ -124,8 +142,8 @@ Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Simply Eggs 12 Extra Large Cage Free Eggs 700g
 Add to cart
-Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","IN-STORE ONLY
+Save to list",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Woolworths","EST. RESTOCK 26/05/25
 Yallamundi Farm 12 Extra Large Pasture Raised Free Range Eggs 700g
 View similar
 products
@@ -145,19 +163,19 @@ Woolworths 12 Large Free Range Eggs 600g
 View similar
 products
              to Woolworths 12 Large Free Range Eggs 600g
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","EST. RESTOCK 26/05/25
 Macro 12 Large Pasture Raised Carbon Neutral Free Range Eggs 600g
 View similar
 products
              to Macro 12 Large Pasture Raised Carbon Neutral Free Range Eggs 600g
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Manning Valley 12 Free Range Eggs 540g
 View similar
 products
              to Manning Valley 12 Free Range Eggs 540g
-Save to list",NA,"",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Lake Macquarie 6 Large Free Range Eggs 350g
 View similar
@@ -175,18 +193,12 @@ Hilltops 12 Free Range Eggs 700g
 View similar
 products
              to Hilltops 12 Free Range Eggs 700g
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","IN-STORE ONLY
 Yallamundi Farm 12 Organic Jumbo Free Range Eggs 800g
 View similar
 products
              to Yallamundi Farm 12 Organic Jumbo Free Range Eggs 800g
-Save to list",NA,"organic",FALSE,1,0,0,0,1,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm 6 Large Organic Free Range Eggs 300g
-View similar
-products
-             to Pace Farm 6 Large Organic Free Range Eggs 300g
 Save to list",NA,"organic",FALSE,1,0,0,0,1,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Manning Valley 18 Large Free Range Eggs 900g
@@ -201,46 +213,19 @@ products
              to Lake Macquarie 12 Jumbo Free Range Eggs 800g
 Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
-Liberty Eggs 12 Jumbo Cage Free Eggs 800g
-View similar
-products
-             to Liberty Eggs 12 Jumbo Cage Free Eggs 800g
-Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
 Puregg Free Range Liquid Egg White 500g
 Add to cart
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Lake Macquarie 18 Large Free Range Eggs 900g
 View similar
 products
              to Lake Macquarie 18 Large Free Range Eggs 900g
 Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm 12 Extra Large Free Range Eggs 700g
-View similar
-products
-             to Pace Farm 12 Extra Large Free Range Eggs 700g
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm Liberty 12 Extra Large Cage Free Eggs 700g
-View similar
-products
-             to Pace Farm Liberty 12 Extra Large Cage Free Eggs 700g
-Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
 "2025-05","Australia","Woolworths","IN-STORE ONLY
 Sunny Queen The Odd Eggs Free Range Egg Mix 500g
 Add to cart
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm Natural 30 Free Range Eggs 1.5kg
-5.0
-/
-1
-View similar
-products
-             to Pace Farm Natural 30 Free Range Eggs 1.5kg
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Straight From The Farm 12 Cage Free Eggs 700g
 View similar
@@ -248,63 +233,17 @@ products
              to Straight From The Farm 12 Cage Free Eggs 700g
 Save to list",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
-Liberty Eggs 18 Large Cage Free Eggs 1kg
-View similar
-products
-             to Liberty Eggs 18 Large Cage Free Eggs 1kg
-Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
 Lake Macquarie 30 Large Free Range Eggs 1.5kg
 Add to cart
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm 18 Large Free Range Eggs 900g
-View similar
-products
-             to Pace Farm 18 Large Free Range Eggs 900g
 Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm Liberty Eggs 6 Large Cage Free Eggs 330g
-View similar
-products
-             to Pace Farm Liberty Eggs 6 Large Cage Free Eggs 330g
-Save to list",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Elderbrook Farms 12 Extra Large Caged Eggs 700g
-View similar
-products
-             to Elderbrook Farms 12 Extra Large Caged Eggs 700g
-Save to list",NA,"cage",FALSE,0,0,0,0,0,0,1,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Manning Valley 30 Free Range Eggs 1.65kg
 Add to cart
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Open Range 12 Large Free Range Eggs 700g
 Add to cart
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm 12 Jumbo Free Range Eggs 800g
-View similar
-products
-             to Pace Farm 12 Jumbo Free Range Eggs 800g
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm 30 Cage Free Eggs 1.5kg
-Add to cart
-Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm 6 Large Free Range Eggs 330g
-View similar
-products
-             to Pace Farm 6 Large Free Range Eggs 330g
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Australia","Woolworths","OUT OF STOCK
-Pace Farm Liberty Eggs 12 Large Barn Laid Eggs 600g
-View similar
-products
-             to Pace Farm Liberty Eggs 12 Large Barn Laid Eggs 600g
-Save to list",NA,"barn",FALSE,1,1,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Puregg Simply Egg Whites 500g
 Add to cart
@@ -312,41 +251,448 @@ Save to list",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
 "2025-05","Australia","Woolworths","OUT OF STOCK
 Hunter Valley 12 Extra Large Free Range Eggs 700g
 Add to cart
-Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
 "2025-05","Canada","Costco","Kirkland Signature Organic Large Free Range Eggs",NA,"organic",FALSE,1,0,0,0,1,0,0,0
-"2025-05","Canada","Costco","Extra Large Eggs",NA,"insufficient information ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Costco","Large Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
-"2025-05","Canada","Costco","Large Omega-3 Eggs",NA,"insufficient information ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Costco","Gray Ridge Egg Farms Large Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
 "2025-05","Canada","Costco","Kirkland Signature Free Run Large Eggs",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
-"2025-05","Canada","Costco","Kirkland Signature 100% Liquid Egg Whites",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Costco","CRO Quail Farms Quail Eggs",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the egg product name.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Waiting for the product name.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. I need the name to be able to categorize it. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the product name so I can categorize it. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
-"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Costco","Gray Ridge Egg Farms White Extra Large Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Costco","Kirkland Signature 100% Liquid Egg Whites",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Costco","CRO Quail Farms Quail Eggs",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Canada","Loblaws","Large Grade A Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Large Size Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Free Range Large Brown Eggs",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Grade A Extra Large Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Grade A Large Brown Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Medium Grade A White Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Egg Whites",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Free Run Brown Eggs Large",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Naturegg Nest Laid White Eggs, Large",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Blue Menu Free Run Large White Eggs 12 Pack",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Free-Range Large Brown Eggs, Club Pack (30 Count)",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Blue Menu Peeled Hard Boiled Omega-3 Free Run Eggs",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Blue Menu Free Run Large Brown Eggs 12 Pack",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Eggs2go! 6 Hard Boiled Peeled Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Free Run Egg Whites",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Naturegg Omega 3 White Eggs, Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Naturegg Free Run Egg Whites",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Nature's Best White Eggs, Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Organic Free Range Eggs, 18 Eggs",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Naturegg Simply Egg Whites",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Egg Creations, Original",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Free Range Organic Eggs Large Size",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Canada","Loblaws","Egg Creations! Whole Eggs, Original",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Large Organic Eggs",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Canada","Loblaws","White Eggs, Extra Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Organic Free-Range Egg Whites",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Canada","Loblaws","Quail Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Free Run Omega 3 Brown Eggs",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Loblaws","Born 3 White Eggs, Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Organic Eggs, Medium",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Canada","Loblaws","Premium Large White Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Loblaws","Country Golden Yolk Large Free Range Eggs",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Walmart","Great Value Large Eggs, 12 Count",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Great Value XL White Eggs, 12 Count",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Naturegg Simply Egg Whites™ Free Run Burnbrae Farms, 500g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Walmart","Great Value Omega-3 Large White Eggs, 12 count",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Burnbrae Farms Naturegg Simply Egg Whites™, 1 Kg",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Gray Ridge Premium Large White Eggs, 18 Count",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Gray Ridge White Eggs 30 Pack Medium, 30 Count",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Great Value Organic Free Run Large Brown Eggs, 12 Count",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Canada","Walmart","GoldEgg Free Run Large Eggs, 12 Count",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Walmart","Gray Ridge Large Brown Eggs, 18 Count",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","GoldEgg Golden D Vitamin D Enriched Large Eggs, 18 Count",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Conestoga Farms Free Run Omega-3 Large Brown Eggs, 12 Count",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Walmart","Conestoga Farms Free Run Omega3 Large Eggs 18, 18 Count",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Walmart","Burnbrae Farms EGGS2go! Omega 3 Hard Boiled 6-Pack Pouch, 6 medium eggs (264g)",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Conestoga Farms Free Range Medium Brown Eggs, 12 count",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Walmart","Gray Ridge Super 747 Jumbo Eggs, 12 Count",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Canada","Walmart","Conestoga Farms Free Run Omega-3 Large White Eggs, 12 Count",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Walmart","JUST Plant Egg, 4 folded plant eggs, 227g",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","SPRING CREEK QUAIL 18 FRESH QUAIL EGGS, SPRING CREEK QUAIL 18 FRESH QUAIL EGGS",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Len Xiang Cooked Salted Duck Eggs, 360g (6pc)",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","TIMIFIS Egg Slicer Kitchen Restaurant Boiled Eggs Slicers Multipurpose Steel Eggs Stainless Steel Cutter Fancy Cutter Kitchen Gadgets Kitchen Gadgets",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Beautiful Kitchen Utensils Clearance, Kitchen Utensils Eggs White and Yolk Separator Eggs Aspirator Eggs Liquid Isolator Eggs Separator, Gifts for Women",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Harpily Special Offer Chip Clips Egg Chalaza Removal Tool Stainless Chalaza Remover For Egg Eggshell Fragment Removal Utensil Kitchen Tool For And",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Eewia Food Clips Clearance, Egg Chalaza Removal Tool Stainless Chalaza Remover for Egg Eggshell Fragment Removal Utensil Kitchen Tool for And",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Kbndieu Kitchen Gadgets Slide Style Eggs Box Slide Style Eggs Roller Storage Rack Refrigerator Side Four Layer Antis Drop Eggs Collection Box",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Qiopertar Décoration de Pâques oeuf de Pâques imitation peluche petit poulet jaune cadeau ornement moins de 5 $Économisez jusqu'à 90% Clearing livraison gratuite",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","1 Set Funnel Filter Egg Separator Storage Base Assorted Stackable Food Grade Multifunctional Solid Food Milk Powder Liquid Wine",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Iodue Biscuit Moulds Silicone Air Fryer Egg 1 Pack Reusable Egg Pan With Lid Alternative To Egg Maker Air Fryer Accessories",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Up to 60% Off! Gspmoly Eggs Shaker Kitchen Gadget Eggs Homogenizer for Cooking Tool Restaurant Baking up to 60% Off",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Yttmshdga Food Clips Egg Chalaza Removal Tool Stainless Chalaza Remover For Egg Eggshell Fragment Removal Utensil Kitchen Tool For And",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Kitchen Gadgets Clearance, Eggs Yolk Shaker Gadget Mixing Golden Whisk Eggs Stiring Stir Maker Puller Cooking Baking Tools Kitchen Accessories, Gifts for Men",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","TIMIFIS Heat Mitten Slide Style Eggs Box Slide Style Eggs Roller Storage Rack Refrigerator Side Four Layer Antis Drop Eggs Collection Box Kitchen Gadgets",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","TIMIFIS Insulation Pad Eggs Container with Handle Eggs Stand for Refrigerator Door with Small Storage Box Kitchen Eggs Organizer for Cabinet Countertop Kitchen Gadgets",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","PGYONG Baking Household Eggs White Yolk Filter Protein and Eggs Liquid Separation Spoon Seasoning Spoon Kitchen Tool",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","Kitchen Gadgets and Tools Clearance, Stainless Steel Eggs Opener Eggshells Cutter Kitchen Remover Tool for Fresh/Soft Hard Boiled Eggs, Home Decor",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart","WHOLE EGG POWDER 450 g",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Indonesia","Hypermart","TELUR NEGERI 10 PCS",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 10S (B)",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 10S (A)",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 30S",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Malaysia","Lotus","CHICKEN EGGS C 30S",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 30S",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 30S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 30S (C)",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 10S (C)",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","LOTUS'S FRESH CHICKEN EGGS GRADE A 10 EGGS",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 30S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","QPLUS FARM FRESH EGGS 15S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 10S (C)",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 10S (B)",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Malaysia","Lotus","CHICKEN EGGS A 30S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 30S (B)",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Malaysia","Lotus","CHICKEN EGGS B 30S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","CP HYGIENIC EGGS 30% LESS CHOLESTEROL EGGS 30D",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","HAPPY EGG GRADE D 30S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","CP HYGIENIC EGG 30 E",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","CP HYGIENIC EGG 10S (B)",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","CP HYGIENIC EGG 30 C",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","HLRB (EC) FRESH CHICKEN EGG 30 EGGS D",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","CP HYGIENIC EGG 10S (C)",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","HAPPY EGG VILLAGEGG 30S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","CP HYGIENIC EGG 10S (A)",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","CP HYGIENIC EGG 30 A",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","QPLUS FARM FRESH EGGS 6S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","CP HYGIENIC EGG 30 B",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","HLRB (EC) FRESH CHICKEN EGGS 30 EGGS A",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 30S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","HLRB (EC) FRESH CHCKEN EGGS 30 EGGS B",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 30S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Malaysia","Lotus","HLRB (EC) FRESH CHICKEN EGGS 30 EGGS C",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Malaysia","Lotus","LOTUSS FRESH CHICKEN EGGS 30S",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Mediano con 30 pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","HCF Huevo Blanco Jumbo con Vitamina E 30 pz Huevo Blanco Jumbo con Vitamina E 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","HCF Huevo Blanco Jumbo 18 pz Huevo Blanco Jumbo 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Mediano 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Mediano 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","HCF Huevo Blanco Jumbo 12 pz Huevo Blanco Jumbo 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco San Juan 30 piezas Huevo Blanco 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Mediano 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Jumbo 30 Pz 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Clara de Huevo Líquida Pasteurizada 1 Kg",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Mediano 18 Pz 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Grande 18 Pz 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Mediano 12 Pz 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 6 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Mediano con 30 pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo de Codorniz 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Enriquecido C/ Omega 3 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","HCF Huevo Rojo Grande 18 pz Huevo Rojo Grande 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Grande 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","HCF Huevo Grande 18 pz Huevo Grande 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","HCF Huevo Grande 12 pz Huevo Grande 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Mediano 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Mediano 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","HCF Huevo Grande 6 pz Huevo Grande 6 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","HCF Huevo Grande 30 pz Huevo Grande 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Orgánico 12 Pz",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","HEB","Huevo Blanco 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Rojo Libre Pastoreo 12 Pz",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Mexico","HEB","Huevo Vegetariano 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Rojo Libre de Jaula 12 Pz",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Mexico","HEB","Orespi Huevo Mediano 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Orespi Huevo Grande 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Mediano 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Mediano 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Mediano 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","HEB Clara de Huevo Líquida Pasteurizada 500 g",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Clara de Huevo Líquida 1 kg Clara de Huevo Líquida 1 Kg",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco Grande Grado a 6 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 12 pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Rojo Organico 12 Pz",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","HEB","Huevo Blanco Organico 12 Pz",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","HEB","Huevo Rojo Libre de Jaula 12 Pz",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Mexico","HEB","Huevo Blanco Lego Amarillo 8 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Rojo Libre Pastoreo 12 Pz",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Mexico","HEB","Huevo Blanco Libre de Jaula 12 Pz",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Mexico","HEB","Huevo Rojo Libre Pastoreo 12 pz Huevo Rojo Libre Pastoreo 12 Pz",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Mexico","HEB","HCF Huevo Blanco Jumbo 6 pz Huevo Blanco Jumbo 6 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Refrigerado Rojo Libre de Jaula 12 Pz",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Mexico","HEB","Huevo Rojo 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Rojo 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Libre Pastoreo 12 Pz",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Mexico","HEB","Huevo Vegetariano 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Mediano Mt 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 18 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Blanco 30 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","HEB","Huevo Rojo Grande Vegetariano 12 Pz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco Organico
+Aires De Campo
+
+12 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo Blanco Organico
+Campo Vivo
+
+12 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo Rojo Organico
+Murlota
+
+12 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo Rojo Organico
+Aires De Campo
+
+12 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo De Colores Organico
+Murlota
+
+12 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo Blanco Organico
+Campo Vivo
+
+6 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo Rojo Organico
+Murlota
+
+6 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo De Colores Organico
+Murlota
+
+6 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo Organico Blanco Mandala
+
+
+12 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo Blanco Orgánico
+
+
+12 pza",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Mexico","La Comer","Huevo Blanco De Libre Pastoreo
+
+
+12 pza",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Mexico","La Comer","Huevo Rojo Libre Pastoreo
+Nutri Granja
+
+12 pza",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Mexico","La Comer","Huevo Blanco Libre Pastoreo
+Nutri Granja
+
+12 pza",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Mexico","La Comer","Huevo Blanco Libre Pastoreo
+Bachoco
+
+12 pza",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Mexico","La Comer","Huevo Blanco Libre Pastoreo
+Nutri Granja
+
+6 pza",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Mexico","La Comer","Huevo Blanco
+San Juan
+
+30 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco
+San Juan
+
+18 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco
+Bachoco
+
+30 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco
+Bachoco
+
+12 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco
+El Dorado
+
+30 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco
+Avicola Tehuacan
+
+18 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco
+Avicola Tehuacan
+
+12 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco
+Avicola Tehuacan
+
+30 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco
+Gena
+
+30 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo De Nido Tehuacan 12 Pza
+
+
+1 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Blanco
+Gena
+
+18 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Rojo
+Bachoco
+
+18 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Rojo
+Bachoco
+
+12 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo Rojo
+Bachoco
+
+30 pza",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Mexico","La Comer","Huevo De Colores Campero
+
+
+12 pza",NA,"barn",FALSE,1,1,0,0,0,0,0,0
+"2025-05","Pakistan","Metro-Makro","Wahdat Golden Eggs 12",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Pakistan","Utility Stores Corporation","Lomen Brown Eggs (50/60 Gm)(LP)",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Pakistan","Utility Stores Corporation","Gul Eggs Per Pcs (LP)(KHL)",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Pakistan","Utility Stores Corporation","Lomen Brown Eggs (50/60 Gm)(LP)",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Pakistan","Utility Stores Corporation","LS Eggs (One Pcs) (LP)(F-S)",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Hilltribe Organic Eggs Pack 10pcs.",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","C.P. Egg No.0 Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Fresh Hen Eggs No.2 Pack 30pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Egg No.1 Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Fresh Hen Eggs No.1 Pack 30pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Betagro Egg No.2 Pack 30pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","S Pure Jumbo Eggs Pack 6pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Fresh Hen Eggs No.0 Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Akara Eggology Organic Eggs Pack 10pcs.",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Betagro Egg No.1 Pack 30pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Betagro Egg No.1 Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Betagro Cage Free Egg Pack 10pcs.",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Egg No.2 Pack 12pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Betagro Pullet Egg Pack 30pcs.",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","My Choice Free Range Eggs Pack 10pcs.",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Hilltribe Organic Eggs Large Size Pack 6pcs.",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Betagro Egg No.0 Pack 30pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","My Choice Fresh Organic Eggs Pack 10pcs.",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","OVF Egg White 450ml.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Betagro Egg No.0 Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Organics and Co Free Range Eggs Pack 10pcs.",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Betagro Pullet Eggs Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Betagro Egg No.2 Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Fresh Duck Eggs No.3 Pack 6pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Beindy Country Farms Pasture Raised Eggs Pack 10pcs.",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Akara Fresh Hen Egg No.1 Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Mori Tama Fresh Eggs No.2 pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Chao Sua Preserved Egg Pack 4pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Egg My God Egg Free Range Mixed 12pcs.(C",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Akara Fresh Hen Egg No.2 Pack 10pcs.",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Natural and Premium Organic Egg Medium Size Pack 10pcs.(C",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Egg No.1 Pack 6pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Oh Egg Eggs No.3 Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Golden Lay Egg Folate Size L Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Salted Eggs Pack 4pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Preserved Eggs Pack 4pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Natural and Premium Organic Egg Pack 10pcs.(C",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Akara Eggology Veggie Eggs Pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Akara Farm Egg No.2 Pack 30pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Chao Sua Egg In Potash Pack 4pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Tops Fresh Hen Eggs Omega3 No.2 pack 10pcs.",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Tops Market (Central Food Retail)","Akkra Egg CageFree Mixed Size Pack 10pcs.",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","Natural and Premium Organic Egg Pack 6pcs.(C",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Tops Market (Central Food Retail)","KCF Brain Plus Eggs Pack 10pcs.",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Thailand","Villa Market","Eggs Pack 10",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs Tama",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Jumbo Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Medium Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs No.0",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs No.1",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs No.2",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs No.3",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs No.3",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs No.2",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","First Born Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Cage Free Eggs",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Thailand","Villa Market","Soft Boiled Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Cage Free Eggs",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Thailand","Villa Market","Veggie Eggology Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Organic Eggs",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Villa Market","Organic Eggs",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Villa Market","Eggs No 1",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs No 0",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Benja Omega 3 Eggs Fresh",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Jumbo Eggs No.0",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Extra Large Eggs No.1",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Super Jumbo Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Organic Eggs",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Villa Market","Organic Eggs",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Thailand","Villa Market","Fresh Quail Egg (15eggs)",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Onsen Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Onsen Eggs Pack2",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Cage Free Eggs No 1",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Thailand","Villa Market","Ocha Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Yummy Eggs Mixed Size Pack 10",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Rich Yolk Eggs Mixed Size Pack 10",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Pasteurized Liquid Egg White",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Omega 3 & Vitamin E Eggs Pack 10",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Hygenic Eggs No.2",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs No 1",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Fresh Egg No 3",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Fresh Eggs No.1",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs Vita A Beauty Mix Size",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs Vita A Active Mix Size",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Eggs Vita A Brain Mix Size",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Thailand","Villa Market","Organic Eggs",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","United States","ALDI","Cage Free Large Eggs - Grade A, 1 dozen",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","ALDI","Free Range Large Brown Grade A Eggs, 12 count",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","ALDI","Grade A Large White Eggs, 1 dozen",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","ALDI","Organic Cage Free Brown Eggs, 1 dozen",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","United States","ALDI","Liquid Egg Whites, 32 oz",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","ALDI","Pasture Raised Large Brown Eggs Grade A, 12 count",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Publix","Publix Eggs, Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Publix Eggs, Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Eggland's Best Classic Large White Eggs, 12 count",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Vital Farms Pasture Raised Large Grade A Eggs",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Publix","Publix Eggs, Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Publix Eggs, Extra Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Just Egg Plant-based egg",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Publix Eggs, Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Manchester Farms Quail Eggs, Fresh",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Nellie's Eggs, Brown, Large, Free Range",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Publix","Pete & Gerry's Eggs, Organic, Brown, Free Range, Large",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Publix","Just Crack An Egg Just Crack an Egg All American Scramble Breakfast Bowl Kit with Potatoes, Sharp Cheddar Cheese, & Uncured Bacon",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Bob Evans Egg Whites, 100% Liquid",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Eggland's Best Hard Cooked Eggs, Medium White, 6 count",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Publix Eggs, Jumbo",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Vital Farms Organic Pasture-Raised Large Eggs",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","United States","Publix","Happy Egg Co. Eggs, Free Range, Large, Organic",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Publix","Just Crack An Egg Low Carb Egg Kit with Sharp Cheddar Cheese, Pork Sausage & Uncured Bacon",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Vital Farms 18 ct Pasture Raised Large Grade A Eggs",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Publix","Eggland's Best Cage Free Large Brown Eggs, 18 count",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Eggland's Best Classic Extra Large White Eggs, 18 count",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","GreenWise Egg Whites, Organic, Liquid",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","United States","Publix","Egg Beaters Liquid Egg Substitute, Original",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","GreenWise Eggs, Organic, Cage-Free, Brown, Large",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","United States","Publix","Eggland's Best Cage Free Large Brown Eggs, 12 count",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Publix Egg Stirs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","GreenWise Brown Eggs, Organic, Cage-Free, Large",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","United States","Publix","Egg Beaters Egg Whites, 100% Real",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Happy Egg Co. Eggs, Heritage, Blue & Brown, Large",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Publix","Eggland's Best 100% USDA Organic Certified Large Brown Eggs, 12 count",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","United States","Publix","NestFresh Eggs, Non-GMO, Brown, Grade A, Free Range, Large",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Publix","4 Grain Cage Free Cage Free Large Brown Eggs",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Eggland's Best Classic Large White Eggs, 18 count",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Eggland's Best Cage Free Hard Cooked Eggs, 6 count",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Publix Eggs, Extra Large",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Eggland's Best Liquid Egg Whites, 32 ounce",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Happy Egg Co. Eggs, Free Range, Large",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Publix","Bob Evans Egg Whites, 100% Liquid",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","GreenWise Brown Eggs, Organic, Large",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","United States","Publix","QQE Quail Eggs",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","GreenWise Eggs, Organic, Cage-Free, Brown, Extra Large",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","United States","Publix","Jimmy Dean Simple Scrambles Meat Lovers",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Eggland's Best Classic Extra Large White Eggs, 12 count",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Fresh From Florida Eggs, Cage Free, Brown, Large",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Publix Eggs, Cage Free, Large",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Publix","Publix Eggstirs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Publix Eggs, Medium",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","United States","Publix","Nellie's Eggs, Free Range, Grade A, Brown, Extra Large",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","United States","Walgreens","Nice! Grade A Cage Free Eggs Large  - 12 ea",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","United States","Walgreens","Nice! For You Grade A Cage Free Eggs Large  - 12 ea",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
