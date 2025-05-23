@@ -1,0 +1,352 @@
+"date","country","chain","product_name","product_description","production_system","flag","cage_free","response_barn","response_aviary","response_freerange","response_organic","response_cagefreenotidentified","response_cage","response_insufficientinformation"
+"2025-05","Australia","Coles","Coles Jumbo Free Range Eggs 12 Pack | 800g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Liberty Cage Free Eggs 12 Pack | 500g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs Regular 6 Pack | 350g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Coles Free Range Eggs 6 pack | 300g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Coles Organic Free Range Eggs 12 Pack | 600g",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Free Range Big Brekkie Browns Eggs 12 ... 820g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Cage Free 18 Pack | 900g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Puregg Egg White Free Range | 500g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Organic Eggs 12 pack | 700g",NA,"organic ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Natural Living Free Range Large Eggs 12 pack | 600g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Coles Cage Free Eggs 12 Pack | 700g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Coles Cage Free Eggs 12 Pack | 800g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Coles Cage Free Eggs 18 Pack | 900g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Yallamundi Farm Organic Free Range Eggs 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs 18 Pack | 900g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Yallamundi Farm Organic Free Range Eggs 12 Pack | 600g",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Free Range Large Eggs 12 pack | 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Free Range Extra Large Eggs 12 pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Free Range X Large Eggs 6 pack | 350g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Good Yolk Co Cage Free Eggs 12 Pack | 700g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Sunrise Free Range Eggs 12 Pack | 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Sunrise Free Range Eggs 12 Pack | 600g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Meggles Free Range Eggs Xlarge 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Fyfe Family Farm Free Range Eggs 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Fyfe Family Farm Free Range Eggs 12 Pack | 600g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Free Range 12 Pack | 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Free Range Eggs 12 Pack | 800g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Free Range 6 Pack | 330g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Surf Coast Cracking Good Ultimate Free Range Eggs 12 P ... 700g",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Coles","Surf Coast Cracking Good Ultimate Free Range Eggs 12 P ... 800g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Cage Free Eggs 12 Pack | 800g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Cage Free 12 Pack | 700g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Cage Free 12 Pack | 600g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Josh's Rainbow Free Range Eggs 12Pack | 800g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Free Range Eggs 12 Pack | 600g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Cage Free Eggs 12 Pack | 700g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Mornington Peninsula Cage Free Eggs 12 Pack | 600g",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Surf Coast Ultimate Free Range Eggs 12 Pack | 600g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Odd Eggs Ready To Pour Egg Mix | 500g",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Australia","Coles","Sunny Queen Organic Free Range Large Eggs 6 pack | 300g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Farm Pride Cage Free Barn Laid Eggs 12 pack | 700g",NA,"barn ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Farmpride Cage Free Barn Laid Eggs 12 Pack | 600g",NA,"barn ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Free Range 12 Pack | 700g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Free Range 12 Pack | 800g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Sunny Queen Cage Free Large Eggs 18 pack | 900g",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Coles","Sunny Queen Free Range Large Eggs 18 pack | 900g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Coles","Pace Farm Eggs For Everyone Free Range 12 pack | 500g",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","$8.80
+$1.26 / 100G
+Sunny Queen 12 Extra Large Free Range Eggs 700g
+Add to cart
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Manning Valley 12 Extra Large Free Range Eggs 700g
+View similar
+products
+             to Manning Valley 12 Extra Large Free Range Eggs 700g
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Woolworths 12 Extra Large Cage Free Eggs 700g
+View similar
+products
+             to Woolworths 12 Extra Large Cage Free Eggs 700g
+Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Sunny Queen 18 Large Free Range Eggs 900g
+View similar
+products
+             to Sunny Queen 18 Large Free Range Eggs 900g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","IN-STORE ONLY
+Woolworths 6 Extra Large Free Range Eggs 350g
+View similar
+products
+             to Woolworths 6 Extra Large Free Range Eggs 350g
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","EST. RESTOCK 26/05/25
+Manning Valley 12 Jumbo Free Range Eggs 800g
+View similar
+products
+             to Manning Valley 12 Jumbo Free Range Eggs 800g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Woolworths 12 x-Large Free Range Eggs 700g
+View similar
+products
+             to Woolworths 12 x-Large Free Range Eggs 700g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Woolworths 18 Large Cage Free Eggs 900g
+View similar
+products
+             to Woolworths 18 Large Cage Free Eggs 900g
+Save to list",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Woolworths","IN-STORE ONLY
+Sunny Queen 12 Extra Large Organic Free Range Eggs 700g
+Add to cart
+Save to list",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Woolworths","IN-STORE ONLY
+Macro 12 Large Organic Australian Free Range Eggs 600g
+4.5
+/
+507
+View similar
+products
+             to Macro 12 Large Organic Australian Free Range Eggs 600g
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","$14.00
+$2.00 / 100G
+Yallamundi Farm Organic 12 Extra Large Free Range Eggs 700g
+5.0
+/
+1
+Add to cart
+Save to list",NA,"organic ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","EST. RESTOCK 26/05/25
+Manning Valley 12 Large Free Range Eggs 600g
+View similar
+products
+             to Manning Valley 12 Large Free Range Eggs 600g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Simply Eggs 12 Extra Large Cage Free Eggs 700g
+Add to cart
+Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","IN-STORE ONLY
+Yallamundi Farm 12 Extra Large Pasture Raised Free Range Eggs 700g
+View similar
+products
+             to Yallamundi Farm 12 Extra Large Pasture Raised Free Range Eggs 700g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","$7.65
+$2.55 / 100G
+Yallamundi Farm 6 Large Organic Free Range Eggs 300g
+Add to cart
+Save to list",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Woolworths","IN-STORE ONLY
+Sunny Queen 100% Egg Whites 500g
+Add to cart
+Save to list",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Woolworths 12 Large Free Range Eggs 600g
+View similar
+products
+             to Woolworths 12 Large Free Range Eggs 600g
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","EST. RESTOCK 26/05/25
+Macro 12 Large Pasture Raised Carbon Neutral Free Range Eggs 600g
+View similar
+products
+             to Macro 12 Large Pasture Raised Carbon Neutral Free Range Eggs 600g
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Manning Valley 12 Free Range Eggs 540g
+View similar
+products
+             to Manning Valley 12 Free Range Eggs 540g
+Save to list",NA,"",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Lake Macquarie 6 Large Free Range Eggs 350g
+View similar
+products
+             to Lake Macquarie 6 Large Free Range Eggs 350g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Lake Macquarie 12 Extra Large Free Range Eggs 700g
+View similar
+products
+             to Lake Macquarie 12 Extra Large Free Range Eggs 700g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Hilltops 12 Free Range Eggs 700g
+View similar
+products
+             to Hilltops 12 Free Range Eggs 700g
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","IN-STORE ONLY
+Yallamundi Farm 12 Organic Jumbo Free Range Eggs 800g
+View similar
+products
+             to Yallamundi Farm 12 Organic Jumbo Free Range Eggs 800g
+Save to list",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm 6 Large Organic Free Range Eggs 300g
+View similar
+products
+             to Pace Farm 6 Large Organic Free Range Eggs 300g
+Save to list",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Manning Valley 18 Large Free Range Eggs 900g
+View similar
+products
+             to Manning Valley 18 Large Free Range Eggs 900g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Lake Macquarie 12 Jumbo Free Range Eggs 800g
+View similar
+products
+             to Lake Macquarie 12 Jumbo Free Range Eggs 800g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Liberty Eggs 12 Jumbo Cage Free Eggs 800g
+View similar
+products
+             to Liberty Eggs 12 Jumbo Cage Free Eggs 800g
+Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Puregg Free Range Liquid Egg White 500g
+Add to cart
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Lake Macquarie 18 Large Free Range Eggs 900g
+View similar
+products
+             to Lake Macquarie 18 Large Free Range Eggs 900g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm 12 Extra Large Free Range Eggs 700g
+View similar
+products
+             to Pace Farm 12 Extra Large Free Range Eggs 700g
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm Liberty 12 Extra Large Cage Free Eggs 700g
+View similar
+products
+             to Pace Farm Liberty 12 Extra Large Cage Free Eggs 700g
+Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","IN-STORE ONLY
+Sunny Queen The Odd Eggs Free Range Egg Mix 500g
+Add to cart
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm Natural 30 Free Range Eggs 1.5kg
+5.0
+/
+1
+View similar
+products
+             to Pace Farm Natural 30 Free Range Eggs 1.5kg
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Straight From The Farm 12 Cage Free Eggs 700g
+View similar
+products
+             to Straight From The Farm 12 Cage Free Eggs 700g
+Save to list",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Liberty Eggs 18 Large Cage Free Eggs 1kg
+View similar
+products
+             to Liberty Eggs 18 Large Cage Free Eggs 1kg
+Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Lake Macquarie 30 Large Free Range Eggs 1.5kg
+Add to cart
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm 18 Large Free Range Eggs 900g
+View similar
+products
+             to Pace Farm 18 Large Free Range Eggs 900g
+Save to list",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm Liberty Eggs 6 Large Cage Free Eggs 330g
+View similar
+products
+             to Pace Farm Liberty Eggs 6 Large Cage Free Eggs 330g
+Save to list",NA,"cage-free not identified",FALSE,1,0,0,0,0,1,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Elderbrook Farms 12 Extra Large Caged Eggs 700g
+View similar
+products
+             to Elderbrook Farms 12 Extra Large Caged Eggs 700g
+Save to list",NA,"cage",FALSE,0,0,0,0,0,0,1,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Manning Valley 30 Free Range Eggs 1.65kg
+Add to cart
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Open Range 12 Large Free Range Eggs 700g
+Add to cart
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm 12 Jumbo Free Range Eggs 800g
+View similar
+products
+             to Pace Farm 12 Jumbo Free Range Eggs 800g
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm 30 Cage Free Eggs 1.5kg
+Add to cart
+Save to list",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm 6 Large Free Range Eggs 330g
+View similar
+products
+             to Pace Farm 6 Large Free Range Eggs 330g
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Pace Farm Liberty Eggs 12 Large Barn Laid Eggs 600g
+View similar
+products
+             to Pace Farm Liberty Eggs 12 Large Barn Laid Eggs 600g
+Save to list",NA,"barn",FALSE,1,1,0,0,0,0,0,0
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Puregg Simply Egg Whites 500g
+Add to cart
+Save to list",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Australia","Woolworths","OUT OF STOCK
+Hunter Valley 12 Extra Large Free Range Eggs 700g
+Add to cart
+Save to list",NA,"free-range ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Costco","Kirkland Signature Organic Large Free Range Eggs",NA,"organic",FALSE,1,0,0,0,1,0,0,0
+"2025-05","Canada","Costco","Extra Large Eggs",NA,"insufficient information ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Costco","Large Eggs",NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Costco","Large Omega-3 Eggs",NA,"insufficient information ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Costco","Kirkland Signature Free Run Large Eggs",NA,"free-range",FALSE,1,0,0,1,0,0,0,0
+"2025-05","Canada","Costco","Kirkland Signature 100% Liquid Egg Whites",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Costco","CRO Quail Farms Quail Eggs",NA,"cage-free not identified ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the egg product name.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Waiting for the product name.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. I need the name to be able to categorize it. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the product name so I can categorize it. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"insufficient information",FALSE,0,0,0,0,0,0,0,1
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product.",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
+"2025-05","Canada","Walmart",NA,NA,"Please provide the name of the egg product. ",TRUE,0,0,0,0,0,0,0,0
