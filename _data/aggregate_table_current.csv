@@ -1,14 +1,5 @@
-"Country","chain","Total egg products","Percent of products cage-free","Num. cage","Num. cage-free","Num. barn","Num. aviary","Num. free-range","Num. unidentified but cage-free","Num. unidentified"
-"United States","ALDI",6,"66.67%",0,4,0,0,2,2,2
-"Mexico","Chedraui",20,"0.00%",0,0,0,0,0,0,20
-"Australia","Coles",192,"95.83%",0,184,8,0,132,44,8
-"Canada","Costco",6,"33.33%",0,2,0,0,2,0,4
-"Mexico","HEB",6,"33.33%",0,2,0,0,1,1,4
-"United States","Kroger",19,"42.11%",0,8,0,0,6,2,11
-"Mexico","La Comer",10,"50.00%",0,5,0,0,5,0,5
-"United States","Target",8,"75.00%",0,6,0,0,3,3,2
-"Canada","Voilà (Sobeys)",10,"20.00%",0,2,0,0,2,0,8
-"United States","Walgreens",2,"100.00%",0,2,0,0,0,2,0
-"Mexico","Walmart",12,"33.33%",0,4,0,0,3,1,8
-"United States","Walmart",44,"59.09%",0,26,0,0,13,13,18
-"Australia","Woolworths",155,"96.13%",1,149,1,0,118,30,5
+"country","chain","date","cage_free","barn","aviary","freerange","organic","cagefreenotidentified","cage","insufficientinformation","total","percent"
+"Australia","Coles","2025-05",17,0,0,8,2,7,0,1,48,0.354166666666667
+"Australia","Woolworths","2025-05",19,1,0,11,4,3,1,2,47,0.404255319148936
+"Canada","Costco","2025-05",2,0,0,1,1,0,0,1,7,0.285714285714286
+"Canada","Walmart","2025-05",0,0,0,0,0,0,0,3,30,0
