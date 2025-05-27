@@ -8,6 +8,7 @@ Specifically, this website aims to present data on **the numbers of cage-free vs
 
 The purpose of this data is to provide an additional source of information about how many egg products are cage-free as opposed to cage, especially for companies that do not have cage-free commitments or do not report on their commitment. This fills an important gap in our understanding of the cage-free egg market around the world, but this data has little meaning in isolation. Please interpret this data alongside other important publications:
 
+- [2024 Cage-Free Fulfillment Report by Open Wing Alliance](https://openwingalliance.org/2024-cage-free-fulfillment-report)
 - [EggTrack by Compassion in World Farming](https://www.eggtrack.com/en/)
 - [Chicken Watch](https://chickenwatch.org/progress-tracker/)
 - [Cage-Free Tracker by Sinergia Animal](https://www.cagefreetracker.com/)
@@ -33,10 +34,10 @@ The purpose of this data is to provide an additional source of information about
 
 <div class="tablenotes">
   Table notes:<br />
-  This table shows data for the most recent month during which data was collected. For historic data, see the downloads below.<br />
-  The "organic" category is assumed to be cage free. This is usually true, but this might be false in some countries.<br />
-  When calculating the percentage of products that are cage-free for a specific company, we assume that the "insufficient information" category represents caged eggs. This means that the cage-free percentage is a conservative estimate.<br />
-  Whether a company has/is reporting on a cage-free commitment is our best guess, and we welcome any corrections.
+  - This table shows data for the most recent month during which data was collected. For historic data, see the downloads below.<br />
+  - When calculating the percentage of products that are cage-free for a specific company, we assume that the "insufficient information" category represents caged eggs. This means that the cage-free percentage is a conservative estimate.<br />
+  - The "organic" category is assumed to be cage free. This is usually true, but this might be false in some countries.<br />
+  - Whether a company has/is reporting on a cage-free commitment is our best guess based on public sources, and we welcome any corrections.
 </div>
 
 # Raw/historic datasets  
@@ -49,6 +50,7 @@ For your own analysis, you may download the raw data:
 
 # About the data  
 - We only include grocery retailers, such as supermarkets and hypermarkets. We do not include restaurants, food service businesses, and so on. We focus on shell eggs; some retailers include liquid or powered eggs in their online store pages under the "egg" category, and such instances are included in the data. However, where retailers include liquid or powered eggs under a separate category, we made no effort to obtain that data. We have done our best to remove eggs from animals other than chickens (e.g. quails), though we may have missed some.
-- Data is systematically scraped from online supermarket websites. For each country, we have aimed to include all of the major supermarkets in this country. However, this is not always possible; countries like Japan have a very decentralised retail industry, so it is not possible to achieve wide market coverage in those countries. Likewise, some countries simply do not have numerous, high-quality options for online grocery shopping, so the data for such countries is naturally low-quality.
-- Currently, we include the following countries: Australia, Canada, India, Indonesia, Japan, Malaysia, Mexico, Nigeria, Pakistan, Philippines, South Africa, Spain, Thailand, Turkey, and the United States. We aimed to include China but were unsuccessful.
-- We began collecting data in 2025-05 (May), and we aim to collect data every month or so. Once a couple of years have passed, and we begin to see changes in the data over time, we will provide visualisations of these trends.
+- Data is systematically scraped from online supermarket and grocery websites. For each country, we have aimed to include all of the major supermarkets and grocery retailers in this country. However, this is not always possible; countries like Japan have a very decentralised retail industry, so it is not possible to achieve wide market coverage in those countries. Likewise, some countries simply do not have numerous, high-quality options for online grocery shopping, so the data for such countries is naturally low-quality.
+- Currently, we include the following countries: Australia, Canada, China, India, Indonesia, Japan, Malaysia, Mexico, Pakistan, Philippines, South Africa, Spain, Thailand, Turkey, and the United States. We aimed to include Nigeria but were unsuccessful.
+- Products are assigned to categories (barn, free-range, cage, and so on) automatically using the large language model Gemini. We manually check this classification, but errors may still occur. Errors will be obvious in the raw data (above), as the raw data contains the original product names.
+- We began collecting data in 2025-06 (June), and we aim to collect data every month or so. Once a couple of years have passed, and we begin to see changes in the data over time, we will provide visualisations of these trends.
