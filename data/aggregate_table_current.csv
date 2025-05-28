@@ -1,35 +1,89 @@
-"Country","Retail chain","Total egg products","Percent of products cage-free","Num. cage","Num. cage-free","...of which","Num. unidentified"
-"Australia","Aldi",4,"75.0%",1,3,"Barn = 1<br />Aviary = 0<br />Free-range = 2<br />Organic = 0<br />Cage-free but unidentified = 0
-",0
-"Australia","Coles",48,"100.0%",0,48,"Barn = 2<br />Aviary = 0<br />Free-range = 29<br />Organic = 4<br />Cage-free but unidentified = 13
-",0
-"Australia","Woolworths",34,"94.1%",0,32,"Barn = 0<br />Aviary = 0<br />Free-range = 23<br />Organic = 5<br />Cage-free but unidentified = 4
-",2
-"Canada","Costco",6,"50.0%",0,3,"Barn = 0<br />Aviary = 0<br />Free-range = 1<br />Organic = 1<br />Cage-free but unidentified = 1
-",3
-"Canada","Loblaws",32,"50.0%",0,16,"Barn = 0<br />Aviary = 0<br />Free-range = 12<br />Organic = 4<br />Cage-free but unidentified = 0
-",16
-"Canada","Walmart",36,"19.4%",1,7,"Barn = 0<br />Aviary = 0<br />Free-range = 6<br />Organic = 1<br />Cage-free but unidentified = 0
-",28
-"Indonesia","Hypermart",1,"0.0%",0,0,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 0
-",1
-"Malaysia","Lotus",34,"14.7%",10,5,"Barn = 0<br />Aviary = 0<br />Free-range = 3<br />Organic = 0<br />Cage-free but unidentified = 2
-",19
-"Mexico","HEB",66,"16.7%",0,11,"Barn = 0<br />Aviary = 0<br />Free-range = 4<br />Organic = 3<br />Cage-free but unidentified = 4
-",55
-"Mexico","La Comer",30,"53.3%",0,16,"Barn = 1<br />Aviary = 0<br />Free-range = 5<br />Organic = 10<br />Cage-free but unidentified = 0
-",14
-"Pakistan","Metro-Makro",1,"0.0%",0,0,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 0
-",1
-"Pakistan","Utility Stores Corporation",4,"0.0%",0,0,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 0
-",4
-"Thailand","Tops Market (Central Food Retail)",44,"31.8%",2,14,"Barn = 0<br />Aviary = 0<br />Free-range = 4<br />Organic = 7<br />Cage-free but unidentified = 3
-",28
-"Thailand","Villa Market",44,"18.2%",0,8,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 5<br />Cage-free but unidentified = 3
-",36
-"United States","ALDI",6,"66.7%",0,4,"Barn = 0<br />Aviary = 0<br />Free-range = 2<br />Organic = 1<br />Cage-free but unidentified = 1
-",2
-"United States","Publix",48,"58.3%",0,28,"Barn = 0<br />Aviary = 0<br />Free-range = 9<br />Organic = 7<br />Cage-free but unidentified = 12
-",20
-"United States","Walgreens",2,"100.0%",0,2,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 2
-",0
+"Country","Retail chain","Total egg products","Percent of products cage-free","Num. cage","Num. unidentified","Num. cage-free","...of which","Commitment"
+"Australia","Aldi",4,"75.00%",1,0,3,"Barn = 1<br />Aviary = 0<br />Free-range = 2<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has commitment but is not reporting"
+"Australia","Coles",48,"97.92%",0,1,47,"Barn = 2<br />Aviary = 0<br />Free-range = 30<br />Organic = 3<br />Cage-free but unidentified = 12
+","Has commitment and is reporting"
+"Australia","Woolworths",36,"94.44%",0,2,34,"Barn = 2<br />Aviary = 0<br />Free-range = 24<br />Organic = 4<br />Cage-free but unidentified = 4
+","Has commitment and is reporting"
+"Canada","Costco",6,"33.33%",0,4,2,"Barn = 0<br />Aviary = 0<br />Free-range = 1<br />Organic = 1<br />Cage-free but unidentified = 0
+","Has commitment and is reporting"
+"Canada","Loblaws",32,"53.12%",0,15,17,"Barn = 0<br />Aviary = 0<br />Free-range = 12<br />Organic = 3<br />Cage-free but unidentified = 2
+","Has commitment but is not reporting"
+"Canada","Voilà (Sobeys)",15,"33.33%",0,10,5,"Barn = 0<br />Aviary = 0<br />Free-range = 2<br />Organic = 2<br />Cage-free but unidentified = 1
+","Has commitment and is reporting"
+"Canada","Walmart",25,"20.00%",0,20,5,"Barn = 0<br />Aviary = 0<br />Free-range = 4<br />Organic = 1<br />Cage-free but unidentified = 0
+","Has commitment and is reporting"
+"China","Suning",120,"78.33%",1,25,94,"Barn = 2<br />Aviary = 0<br />Free-range = 59<br />Organic = 0<br />Cage-free but unidentified = 33
+","Has no commitment and is not reporting"
+"India","Star Bazaar (Trent/Tata)",10,"20.00%",0,8,2,"Barn = 0<br />Aviary = 0<br />Free-range = 2<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has no commitment and is not reporting"
+"Indonesia","Hypermart",1,"0.00%",0,1,0,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has no commitment and is not reporting"
+"Japan","AEON Group",11,"9.09%",0,10,1,"Barn = 0<br />Aviary = 0<br />Free-range = 1<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has no commitment and is not reporting"
+"Japan","Tokyu Store Corporation",17,"5.88%",0,16,1,"Barn = 0<br />Aviary = 0<br />Free-range = 1<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has no commitment and is not reporting"
+"Malaysia","Aeon",63,"11.11%",3,53,7,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 4<br />Cage-free but unidentified = 3
+","Has commitment but is not reporting"
+"Malaysia","Jaya Grocer (Trendcell)",19,"15.79%",0,16,3,"Barn = 0<br />Aviary = 0<br />Free-range = 1<br />Organic = 1<br />Cage-free but unidentified = 1
+","Has commitment but is not reporting"
+"Malaysia","Lotus",34,"5.88%",11,21,2,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 2
+","Has commitment and is reporting"
+"Malaysia","Village Grocer (The Food Purveyor)",30,"20.00%",0,24,6,"Barn = 0<br />Aviary = 0<br />Free-range = 2<br />Organic = 2<br />Cage-free but unidentified = 2
+","Has commitment but is not reporting"
+"Mexico","Chedraui",74,"43.24%",1,41,32,"Barn = 0<br />Aviary = 0<br />Free-range = 14<br />Organic = 8<br />Cage-free but unidentified = 10
+","Has no commitment and is not reporting"
+"Mexico","HEB",58,"18.97%",0,47,11,"Barn = 0<br />Aviary = 0<br />Free-range = 4<br />Organic = 2<br />Cage-free but unidentified = 5
+","Has no commitment and is not reporting"
+"Mexico","La Comer",29,"51.72%",0,14,15,"Barn = 0<br />Aviary = 0<br />Free-range = 6<br />Organic = 9<br />Cage-free but unidentified = 0
+","Has commitment and is reporting"
+"Mexico","Soriana",27,"22.22%",4,17,6,"Barn = 0<br />Aviary = 0<br />Free-range = 5<br />Organic = 0<br />Cage-free but unidentified = 1
+","Has no commitment and is not reporting"
+"Mexico","Walmart",9,"11.11%",1,7,1,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 1<br />Cage-free but unidentified = 0
+","Has no commitment and is not reporting"
+"Pakistan","Metro-Makro",1,"0.00%",0,1,0,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has commitment but is not reporting"
+"Pakistan","Utility Stores Corporation",4,"0.00%",0,4,0,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has no commitment and is not reporting"
+"Philippines","SM Supermarket/Hypermarket",182,"17.58%",18,132,32,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 6<br />Cage-free but unidentified = 26
+","Has no commitment and is not reporting"
+"South Africa","Pick n Pay",31,"32.26%",0,21,10,"Barn = 0<br />Aviary = 0<br />Free-range = 9<br />Organic = 0<br />Cage-free but unidentified = 1
+","Has no commitment and is not reporting"
+"South Africa","Shoprite Group",137,"8.76%",2,123,12,"Barn = 0<br />Aviary = 0<br />Free-range = 6<br />Organic = 0<br />Cage-free but unidentified = 6
+","Has no commitment and is not reporting"
+"Spain","Alcampo",12,"58.33%",1,4,7,"Barn = 4<br />Aviary = 0<br />Free-range = 3<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has commitment and is reporting"
+"Spain","Consum Coop",14,"50.00%",0,7,7,"Barn = 0<br />Aviary = 0<br />Free-range = 5<br />Organic = 2<br />Cage-free but unidentified = 0
+","Has commitment and is reporting"
+"Spain","Grupo Dia",9,"33.33%",0,6,3,"Barn = 1<br />Aviary = 0<br />Free-range = 1<br />Organic = 1<br />Cage-free but unidentified = 0
+","Has commitment and is reporting"
+"Spain","Grupo Eroski",4,"50.00%",0,2,2,"Barn = 2<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has commitment but is not reporting"
+"Spain","Mercadona",10,"20.00%",0,8,2,"Barn = 0<br />Aviary = 0<br />Free-range = 2<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has commitment but is not reporting"
+"Thailand","Lotus",79,"30.38%",0,55,24,"Barn = 0<br />Aviary = 0<br />Free-range = 2<br />Organic = 15<br />Cage-free but unidentified = 7
+","Has commitment and is reporting"
+"Thailand","Tops Market (Central Food Retail)",44,"31.82%",0,30,14,"Barn = 0<br />Aviary = 0<br />Free-range = 4<br />Organic = 6<br />Cage-free but unidentified = 4
+","Has commitment and is reporting"
+"Thailand","Villa Market",44,"18.18%",0,36,8,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 5<br />Cage-free but unidentified = 3
+","Has no commitment and is not reporting"
+"Turkey","Bizim Toptan",4,"0.00%",0,4,0,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 0
+","Has no commitment and is not reporting"
+"Turkey","Carrefour",23,"47.83%",0,12,11,"Barn = 0<br />Aviary = 0<br />Free-range = 2<br />Organic = 8<br />Cage-free but unidentified = 1
+","Has no commitment and is not reporting"
+"Turkey","Onur",21,"42.86%",0,12,9,"Barn = 0<br />Aviary = 0<br />Free-range = 4<br />Organic = 5<br />Cage-free but unidentified = 0
+","Has no commitment and is not reporting"
+"United States","ALDI",6,"66.67%",0,2,4,"Barn = 0<br />Aviary = 0<br />Free-range = 3<br />Organic = 0<br />Cage-free but unidentified = 1
+","Has commitment but is not reporting"
+"United States","Giant Eagle",46,"56.52%",0,20,26,"Barn = 0<br />Aviary = 0<br />Free-range = 13<br />Organic = 3<br />Cage-free but unidentified = 10
+","Has commitment but is not reporting"
+"United States","Kroger",32,"53.12%",0,15,17,"Barn = 0<br />Aviary = 0<br />Free-range = 10<br />Organic = 3<br />Cage-free but unidentified = 4
+","Has commitment and is reporting"
+"United States","Publix",48,"52.08%",0,23,25,"Barn = 0<br />Aviary = 0<br />Free-range = 11<br />Organic = 5<br />Cage-free but unidentified = 9
+","Has commitment and is reporting"
+"United States","Target",12,"75.00%",0,3,9,"Barn = 0<br />Aviary = 0<br />Free-range = 1<br />Organic = 2<br />Cage-free but unidentified = 6
+","Has commitment and is reporting"
+"United States","Walgreens",2,"100.00%",0,0,2,"Barn = 0<br />Aviary = 0<br />Free-range = 0<br />Organic = 0<br />Cage-free but unidentified = 2
+","Has commitment and is reporting"
+"United States","Walmart",39,"66.67%",0,13,26,"Barn = 0<br />Aviary = 0<br />Free-range = 2<br />Organic = 5<br />Cage-free but unidentified = 19
+","Has commitment and is reporting"
