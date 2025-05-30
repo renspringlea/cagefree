@@ -54,3 +54,15 @@ For your own analysis, you may download the raw data:
 - Currently, we include the following countries: Australia, Canada, China, India, Indonesia, Japan, Malaysia, Mexico, Pakistan, Philippines, South Africa, Spain, Thailand, Turkey, and the United States. We aimed to include Nigeria but were unsuccessful.
 - Products are assigned to categories (barn, free-range, cage, and so on) automatically using the large language model Gemini. We manually check this classification, but errors may still occur. Errors will be obvious in the raw data (above), as the raw data contains the original product names.
 - We began collecting data in 2025-06 (June), and we aim to collect data every quarter or so (i.e. every three months). Once a couple of years have passed, and we begin to see changes in the data over time, we will provide visualisations of these trends.
+
+# Is the cage-free product share a good measure of the cage-free market share?
+- No and yes.
+- There are 15 countries listed above. 11 of those countries also have a cage-free market share estimated for the country as a whole for [Welfare Footprint Project](https://welfarefootprint.org/laying-hens/).
+- If you take the mean product share estimated by me above ($$x$$), and then use that to perform a simple linear regression analysis predict the Welfare Footprint market share ($$y$$), you get a model like:
+
+$$y = 0.33x$$
+$$R^2 = 0.42, p = 0.0184$$
+
+- Welfare Footprint's country-wide cage-free estimate is approximately one-third the magnitude of our product cage-free estimates from above. This makes total sense—we would expect cage-free eggs to be overrepresented in supermarkets' shell egg sections, as these products are most visible to consumers. We would expect caged eggs to be more commonly used for industrial food preparation, food service, and so on.
+- The product share on this website predicts about 42% of the variance in Welfare Footprint's country-wide cage-free estimate. Despite the small sample size (n = 11), this relationship is statistically significant at the 0.05 level.
+- So, if we don't have any data for a country's cage-free egg market, it would be reasonable to use one-third of the percentage of shell egg products that are cage-free in that country's main supermarkets.
