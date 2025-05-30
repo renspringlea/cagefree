@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
 This website presents, in a format convenient for decision-makers and funders working on caged hen welfare, key data relating to cage-free and caged eggs sold by supermarkets and retailers around the world. Data is updated every quarter.
 
 Specifically, this website aims to present data on **the numbers of cage-free vs caged shell egg products sold by major grocery retailers in specific countries**. This website does *not* include data on sales numbers—rather, the data collects details about products that are available for purchase at major retailers in the specific countries, and whether those products are caged or cage-free.
@@ -61,6 +63,7 @@ For your own analysis, you may download the raw data:
 - If you take the mean product share estimated by me above ($$x$$), and then use that to perform a simple linear regression analysis predict the Welfare Footprint market share ($$y$$), you get a model like:
 
 $$y = 0.33x$$
+
 $$R^2 = 0.42, p = 0.0184$$
 
 - Welfare Footprint's country-wide cage-free estimate is approximately one-third the magnitude of our product cage-free estimates from above. This makes total sense—we would expect cage-free eggs to be overrepresented in supermarkets' shell egg sections, as these products are most visible to consumers. We would expect caged eggs to be more commonly used for industrial food preparation, food service, and so on.
