@@ -1,45 +1,47 @@
 country,chain,date,cage_free,barn,aviary,freerange,organic,cagefreenotidentified,cage,insufficientinformation,total,percent,commitment
 Australia,Aldi,2025-06,3,1,0,2,0,0,1,0,4,0.75,Has commitment but is not reporting
-Australia,Coles,2025-06,47,2,0,30,3,12,0,1,48,0.9791666666666666,Has commitment and is reporting
-Australia,Woolworths,2025-06,34,2,0,24,4,4,0,2,36,0.9444444444444444,Has commitment and is reporting
-Canada,Costco,2025-06,2,0,0,1,1,0,0,4,6,0.3333333333333333,Has commitment and is reporting
+Australia,Coles,2025-06,47,2,0,30,3,12,0,1,48,0.979166666666667,Has commitment and is reporting
+Australia,Woolworths,2025-06,34,2,0,24,4,4,0,2,36,0.944444444444444,Has commitment and is reporting
+Canada,Costco,2025-06,2,0,0,1,1,0,0,4,6,0.333333333333333,Has commitment and is reporting
 Canada,Loblaws,2025-06,17,0,0,12,3,2,0,15,32,0.53125,Has commitment but is not reporting
-Canada,Voilà (Sobeys),2025-06,5,0,0,2,2,1,0,10,15,0.3333333333333333,Has commitment and is reporting
+Canada,Voilà (Sobeys),2025-06,5,0,0,2,2,1,0,10,15,0.333333333333333,Has commitment and is reporting
 Canada,Walmart,2025-06,5,0,0,4,1,0,0,20,25,0.2,Has commitment and is reporting
-China,Suning,2025-06,94,2,0,59,0,33,1,25,120,0.7833333333333333,Has no commitment and is not reporting
+China,Suning,2025-06,94,2,0,59,0,33,1,25,120,0.783333333333333,Has no commitment and is not reporting
+China,RT-Mart (in person),2025-06,4,0,0,4,0,0,0,14,18,0.222,Has no commitment and is not reporting
+China,Hema Fresh (in person),2025-06,2,0,0,2,0,0,0,5,7,0.286,Has no commitment and is not reporting
 India,Star Bazaar (Trent/Tata),2025-06,2,0,0,2,0,0,0,8,10,0.2,Has no commitment and is not reporting
 Indonesia,Hypermart,2025-06,0,0,0,0,0,0,0,1,1,0,Has no commitment and is not reporting
-Japan,AEON Group,2025-06,1,0,0,1,0,0,0,10,11,0.09090909090909091,Has no commitment and is not reporting
-Japan,Tokyu Store Corporation,2025-06,1,0,0,1,0,0,0,16,17,0.058823529411764705,Has no commitment and is not reporting
-Malaysia,Aeon,2025-06,7,0,0,0,4,3,3,53,63,0.1111111111111111,Has commitment but is not reporting
-Malaysia,Jaya Grocer (Trendcell),2025-06,3,0,0,1,1,1,0,16,19,0.15789473684210525,Has commitment but is not reporting
-Malaysia,Lotus,2025-06,2,0,0,0,0,2,11,21,34,0.058823529411764705,Has commitment and is reporting
+Japan,AEON Group,2025-06,1,0,0,1,0,0,0,10,11,0.0909090909090909,Has no commitment and is not reporting
+Japan,Tokyu Store Corporation,2025-06,1,0,0,1,0,0,0,16,17,0.0588235294117647,Has no commitment and is not reporting
+Malaysia,Aeon,2025-06,7,0,0,0,4,3,3,53,63,0.111111111111111,Has commitment but is not reporting
+Malaysia,Jaya Grocer (Trendcell),2025-06,3,0,0,1,1,1,0,16,19,0.157894736842105,Has commitment but is not reporting
+Malaysia,Lotus,2025-06,2,0,0,0,0,2,11,21,34,0.0588235294117647,Has commitment and is reporting
 Malaysia,Village Grocer (The Food Purveyor),2025-06,6,0,0,2,2,2,0,24,30,0.2,Has commitment but is not reporting
-Mexico,Chedraui,2025-06,32,0,0,14,8,10,1,41,74,0.43243243243243246,Has no commitment and is not reporting
-Mexico,HEB,2025-06,11,0,0,4,2,5,0,47,58,0.1896551724137931,Has no commitment and is not reporting
-Mexico,La Comer,2025-06,15,0,0,6,9,0,0,14,29,0.5172413793103449,Has commitment and is reporting
-Mexico,Soriana,2025-06,6,0,0,5,0,1,4,17,27,0.2222222222222222,Has no commitment and is not reporting
-Mexico,Walmart,2025-06,1,0,0,0,1,0,1,7,9,0.1111111111111111,Has no commitment and is not reporting
+Mexico,Chedraui,2025-06,32,0,0,14,8,10,1,41,74,0.432432432432432,Has no commitment and is not reporting
+Mexico,HEB,2025-06,11,0,0,4,2,5,0,47,58,0.189655172413793,Has no commitment and is not reporting
+Mexico,La Comer,2025-06,15,0,0,6,9,0,0,14,29,0.517241379310345,Has commitment and is reporting
+Mexico,Soriana,2025-06,6,0,0,5,0,1,4,17,27,0.222222222222222,Has no commitment and is not reporting
+Mexico,Walmart,2025-06,1,0,0,0,1,0,1,7,9,0.111111111111111,Has no commitment and is not reporting
 Pakistan,Metro-Makro,2025-06,0,0,0,0,0,0,0,1,1,0,Has commitment but is not reporting
 Pakistan,Utility Stores Corporation,2025-06,0,0,0,0,0,0,0,4,4,0,Has no commitment and is not reporting
-Philippines,SM Supermarket/Hypermarket,2025-06,32,0,0,0,6,26,18,132,182,0.17582417582417584,Has no commitment and is not reporting
-South Africa,Pick n Pay,2025-06,10,0,0,9,0,1,0,21,31,0.3225806451612903,Has no commitment and is not reporting
-South Africa,Shoprite Group,2025-06,12,0,0,6,0,6,2,123,137,0.08759124087591241,Has no commitment and is not reporting
-Spain,Alcampo,2025-06,7,4,0,3,0,0,1,4,12,0.5833333333333334,Has commitment and is reporting
+Philippines,SM Supermarket/Hypermarket,2025-06,32,0,0,0,6,26,18,132,182,0.175824175824176,Has no commitment and is not reporting
+South Africa,Pick n Pay,2025-06,10,0,0,9,0,1,0,21,31,0.32258064516129,Has no commitment and is not reporting
+South Africa,Shoprite Group,2025-06,12,0,0,6,0,6,2,123,137,0.0875912408759124,Has no commitment and is not reporting
+Spain,Alcampo,2025-06,7,4,0,3,0,0,1,4,12,0.583333333333333,Has commitment and is reporting
 Spain,Consum Coop,2025-06,7,0,0,5,2,0,0,7,14,0.5,Has commitment and is reporting
-Spain,Grupo Dia,2025-06,3,1,0,1,1,0,0,6,9,0.3333333333333333,Has commitment and is reporting
+Spain,Grupo Dia,2025-06,3,1,0,1,1,0,0,6,9,0.333333333333333,Has commitment and is reporting
 Spain,Grupo Eroski,2025-06,2,2,0,0,0,0,0,2,4,0.5,Has commitment but is not reporting
 Spain,Mercadona,2025-06,2,0,0,2,0,0,0,8,10,0.2,Has commitment but is not reporting
-Thailand,Lotus,2025-06,24,0,0,2,15,7,0,55,79,0.3037974683544304,Has commitment and is reporting
-Thailand,Tops Market (Central Food Retail),2025-06,14,0,0,4,6,4,0,30,44,0.3181818181818182,Has commitment and is reporting
-Thailand,Villa Market,2025-06,8,0,0,0,5,3,0,36,44,0.18181818181818182,Has no commitment and is not reporting
+Thailand,Lotus,2025-06,24,0,0,2,15,7,0,55,79,0.30379746835443,Has commitment and is reporting
+Thailand,Tops Market (Central Food Retail),2025-06,14,0,0,4,6,4,0,30,44,0.318181818181818,Has commitment and is reporting
+Thailand,Villa Market,2025-06,8,0,0,0,5,3,0,36,44,0.181818181818182,Has no commitment and is not reporting
 Turkey,Bizim Toptan,2025-06,0,0,0,0,0,0,0,4,4,0,Has no commitment and is not reporting
-Turkey,Carrefour,2025-06,11,0,0,2,8,1,0,12,23,0.4782608695652174,Has no commitment and is not reporting
-Turkey,Onur,2025-06,9,0,0,4,5,0,0,12,21,0.42857142857142855,Has no commitment and is not reporting
-United States,ALDI,2025-06,4,0,0,3,0,1,0,2,6,0.6666666666666666,Has commitment but is not reporting
-United States,Giant Eagle,2025-06,26,0,0,13,3,10,0,20,46,0.5652173913043478,Has commitment but is not reporting
+Turkey,Carrefour,2025-06,11,0,0,2,8,1,0,12,23,0.478260869565217,Has no commitment and is not reporting
+Turkey,Onur,2025-06,9,0,0,4,5,0,0,12,21,0.428571428571429,Has no commitment and is not reporting
+United States,ALDI,2025-06,4,0,0,3,0,1,0,2,6,0.666666666666667,Has commitment but is not reporting
+United States,Giant Eagle,2025-06,26,0,0,13,3,10,0,20,46,0.565217391304348,Has commitment but is not reporting
 United States,Kroger,2025-06,17,0,0,10,3,4,0,15,32,0.53125,Has commitment and is reporting
-United States,Publix,2025-06,25,0,0,11,5,9,0,23,48,0.5208333333333334,Has commitment and is reporting
+United States,Publix,2025-06,25,0,0,11,5,9,0,23,48,0.520833333333333,Has commitment and is reporting
 United States,Target,2025-06,9,0,0,1,2,6,0,3,12,0.75,Has commitment and is reporting
 United States,Walgreens,2025-06,2,0,0,0,0,2,0,0,2,1,Has commitment and is reporting
-United States,Walmart,2025-06,26,0,0,2,5,19,0,13,39,0.6666666666666666,Has commitment and is reporting
+United States,Walmart,2025-06,26,0,0,2,5,19,0,13,39,0.666666666666667,Has commitment and is reporting
