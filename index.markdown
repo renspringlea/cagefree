@@ -56,7 +56,7 @@ For your own analysis, you may download the raw data:
 - Currently, we include the following countries: Australia, Canada, China, India, Indonesia, Japan, Malaysia, Mexico, Pakistan, Philippines, South Africa, Spain, Thailand, Turkey, and the United States. We aimed to include Nigeria but were unsuccessful.
 - Products are assigned to categories (barn, free-range, cage, and so on) automatically using the large language model Gemini. We manually check this classification, but errors may still occur. Errors will be obvious in the raw data (above), as the raw data contains the original product names.
 - We began collecting data in 2025-06 (June), and we aim to collect data every quarter or so (i.e. every three months). Once a couple of years have passed, and we begin to see changes in the data over time, we will provide visualisations of these trends.
-- In some countries, we have volunteers who generously visited key supermarkets in person and photographed all fresh egg products available for sale. We treat these the same in our data, except that we note that the data is from an in-person visit in the supermarket name, and we show the large language model the entire photo rather than just the product name.  
+- In some countries, we have volunteers who generously visited key supermarkets in person and photographed all fresh egg products available for sale (a grateful shout-out to the Aijun Yang family!). We treat these the same in our data, except that we note that the data is from an in-person visit in the supermarket name, and we show the large language model the entire photo rather than just the product name.  
 
 # Is the cage-free product share a good measure of the cage-free market share?
 - No and yes.
