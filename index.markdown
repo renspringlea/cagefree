@@ -69,4 +69,18 @@ $$R^2 = 0.42, p = 0.0184$$
 
 - Welfare Footprint's country-wide cage-free estimate is approximately one-third the magnitude of our product cage-free estimates from above. This makes total sense—we would expect cage-free eggs to be overrepresented in supermarkets' shell egg sections, as these products are most visible to consumers. We would expect caged eggs to be more commonly used for industrial food preparation, food service, and so on.
 - The product share on this website predicts about 42% of the variance in Welfare Footprint's country-wide cage-free estimate. Despite the small sample size (n = 11), this relationship is statistically significant at the 0.05 level.
-- So, if we don't have any data for a country's cage-free egg market, it would be reasonable to use one-third of the percentage of shell egg products that are cage-free in that country's main supermarkets.
+- So, if we don't have any data for a country's cage-free egg market, it would be reasonable to use one-third of the percentage of shell egg products that are cage-free in that country's main supermarkets.  
+
+# How is the cage-free share changing over time?   
+
+I first conducted the web scrape in June 2025. In July 2026, I was able to compare the change in cage-free product share in supermarkets over time.  
+
+This is a tentative analysis, particularly as there is some error in the process for automatically assigning cage-free labels to egg products. There is also variation in supermarkets from month to month — it's not a consistent "always increasing" trend.  
+
+Here's the graph. The horizontal axis shows the percent of fresh egg products in each supermarket that were designated "cage-free" in June 2025. The vertical axis shows the *change* in percent, for the same supermarkets, between June 2025 and July 2026.  
+
+For example, MY Jaya Grocer (i.e., Jaya Grocer in Malaysia) was estimated at ~20% of fresh egg products being cage-free in June 2025 (x-axis), but that increased to ~30% by July 2026 — resulting in an increase of +10% absolute percentage points (y-axis).  
+
+The majority of supermarkets *increased* their cage-free shares of fresh egg products over this period, with the mean increase being +5.2 absolute percentage points. Assuming that the result remains consistent in future years (which is not guaranteed), that's some serious progress over just one year.  
+
+<a target="_blank" href="https://cagefr.ee/assets/images/g_temporal2.png"><img alt="Graph showing change in % cage-free market share of egg products in supermarkets over time" src="https://cagefr.ee/assets/images/g_temporal2.png" /></a>
