@@ -83,4 +83,9 @@ For example, MY Jaya Grocer (i.e., Jaya Grocer in Malaysia) was estimated at ~20
 
 The majority of supermarkets *increased* their cage-free shares of fresh egg products over this period, with the mean increase being +5.2 absolute percentage points. Assuming that the result remains consistent in future years (which is not guaranteed), that's some serious progress over just one year.  
 
+There are three factors that increase my confidence in the existence of this trend:  
+- The *p*-value = 0.029, i.e., there is evidence that population mean is different from zero at a 0.05 significance level
+- When comparing June 2025 to *January* 2026, the trend is smaller but still positive
+- We have a strong contextual reason to expect this trend — there are numerous cage-free campaigns around the world, and moreover, many companies set fulfillment deadlines for 2025.  
+
 <a target="_blank" href="https://cagefr.ee/assets/images/g_temporal2.png"><img alt="Graph showing change in % cage-free market share of egg products in supermarkets over time" src="https://cagefr.ee/assets/images/g_temporal2.png" /></a>
